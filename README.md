@@ -28,7 +28,7 @@ Analytics portfolio
 
 ### 📊 Projects
 
-- **[Retail Sales Dashboard (Power BI)](https://github.com/yourusername/retail-sales-dashboard)**  
+- **[Retail Sales Dashboard (Power BI)](https://github.com/Udaycoder123/financial-dashboard)**  
   Interactive dashboard showing profit & sales by region, category, and time.
 
 
